@@ -6,7 +6,7 @@
 
 # My Blog
 
-https://mj-boruto.github.io/blog/
+https://yontan-yane.github.io/blog/
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
